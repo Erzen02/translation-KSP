@@ -11,11 +11,11 @@
 
 ## MOD List
 
-| Mod名                         | 進捗 |
-| ----------------------------- | ---- |
-| Station Parts Expansion Redux | 完了 |
-| Near Future Series            | 計画 |
-| Kerbalism                     | 計画 |
+| Mod名                                                                                                                                          | 進捗 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Station Parts Expansion Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-112-stockalike-station-parts-redux-june-12-2022/) | 完了 |
+| Near Future Series                                                                                                                             | 計画 |
+| Kerbalism                                                                                                                                      | 計画 |
 
 最終更新: Nov 27 2022
 

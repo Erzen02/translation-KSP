@@ -11,12 +11,13 @@
 
 ## MOD List
 
-| Mod名                                                                                                                                          | 進捗 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [Station Parts Expansion Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-112-stockalike-station-parts-redux-june-12-2022/) | 完了 |
-| [Near Future Spacecraft](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)           | 完了 |
-| Near Future Series                                                                                                                             | 計画 |
-| Kerbalism                                                                                                                                      | 計画 |
+| Mod名                                                                                                                                          | 進捗   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [Station Parts Expansion Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-112-stockalike-station-parts-redux-june-12-2022/) | テスト |
+| [Near Future Spacecraft](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)           | テスト |
+| [Near Future eXploration](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)          | 作業中 |
+| Near Future Series                                                                                                                             | 計画   |
+| Kerbalism                                                                                                                                      | 計画   |
 
 最終更新: Nov 28 2022
 
@@ -33,5 +34,5 @@
 ## Licence
 
 - **オリジナルのデータの著作権は各MOD作者様に帰属しますので個別に確認してください。**
-- 私自身の翻訳した内容はMITライセンスを適用します。
+- 私自身の翻訳した内容は通常はMITライセンス、本家がコピーレフト系であればそれに準じたライセンスを個別に適用します。
 - 詳しくはリポジトリ内のLICENSEファイルを確認してください。

@@ -13,10 +13,12 @@
 
 | Mod名                                                                                                                                                     | 進捗   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [Stockalike Station Parts Expansion Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-112-stockalike-station-parts-redux-june-12-2022/) | テスト |
-| [Near Future Spacecraft](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                      | テスト |
-| [Near Future eXploration](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                     | テスト |
-| [Cryogenic Engines](https://forum.kerbalspaceprogram.com/index.php?/topic/106089-112x-cryogenic-engines-liquid-hydrogen-and-methane-rockets-jan-22-2022/) | テスト |
+| [Stockalike Station Parts Expansion Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-112-stockalike-station-parts-redux-june-12-2022/) | 完了   |
+| [Near Future Spacecraft](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                      | 完了   |
+| [Near Future eXploration](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                     | 完了   |
+| [Cryogenic Engines](https://forum.kerbalspaceprogram.com/index.php?/topic/106089-112x-cryogenic-engines-liquid-hydrogen-and-methane-rockets-jan-22-2022/) | 完了   |
+| [Near Future Solar](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                           | 作業中 |
+| [Community Tech Tree](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-112x-community-tech-tree-july-3/)                                       | 作業中 |
 | Near Future Series                                                                                                                                        | 計画   |
 | Kerbalism                                                                                                                                                 | 計画   |
 

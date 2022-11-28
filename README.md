@@ -22,7 +22,7 @@
 | Near Future Series                                                                                                                                        | 計画   |
 | Kerbalism                                                                                                                                                 | 計画   |
 
-最終更新: Nov 28 2022
+最終更新: Nov 29 2022
 
 ## How to use
 

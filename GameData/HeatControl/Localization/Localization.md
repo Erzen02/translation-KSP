@@ -27,9 +27,7 @@ There are some characters that should not be translated into another language an
 ## Translation Credits
 
 * fitiales (Spanish)
-* GabrielGABFonesca (Portugese)
-* Dr. Jet, Sooll3 (Russian)
-* DYZBX from the Black Domain Studio, tinygrox (Chinese)
-* GabrielGABFonesca (Portugese)
-* Three_Pounds (German)
+* Dr. Jet (Russian)
+* German (Three_Pounds)
+* Portugese (LianCastro)
 * Erzen (Japanese)

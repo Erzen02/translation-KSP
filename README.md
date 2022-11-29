@@ -20,7 +20,7 @@
 | [Near Future Solar](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                           | 完了   |
 | [Community Tech Tree](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-112x-community-tech-tree-july-3/)                                       | 完了   |
 | [Near Future Electrical](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                      | テスト |
-| [Near Future Propulsion](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                      | 作業中 |
+| [Near Future Propulsion](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                      | テスト |
 | Near Future Series                                                                                                                                        | 計画   |
 | Kerbalism                                                                                                                                                 | 計画   |
 

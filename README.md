@@ -33,7 +33,7 @@
 
 | Mod名                                                                                                              | 進捗   |
 | ------------------------------------------------------------------------------------------------------------------ | ------ |
-| [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/) | 作業中 |
+| [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/) | テスト |
 | Kerbalism                                                                                                          | 計画   |
 | Mk2 Expansion                                                                                                      | 計画   |
 | Universal Storage II Finalized                                                                                     | 計画   |

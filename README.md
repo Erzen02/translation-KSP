@@ -26,13 +26,16 @@
 | [Near Future Propulsion](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                      | テスト |
 | [System Heat](https://forum.kerbalspaceprogram.com/index.php?/topic/193909-112x-systemheat-a-replacement-for-the-coreheat-system-october-9/)              | テスト |
 | [Heat Control](https://forum.kerbalspaceprogram.com/index.php?/topic/112027-112x-heat-control-more-radiators-august-22-2021/)                             | テスト |
+| [Far future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-112x-far-future-technologies-august-23-new-engine/)                | 作業中 |
+| [Near Future Aeronautics](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                     | 作業中 |
+| [Near Future LaunchVehicles](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                  | 作業中 |
 
 ### その他のMOD
 
 | Mod名                                                                                                              | 進捗   |
 | ------------------------------------------------------------------------------------------------------------------ | ------ |
 | [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/) | テスト |
-| Kerbalism                                                                                                          | 計画   |
+| [Kerbalism](https://github.com/Kerbalism/Kerbalism)                                                                | 作業中 |
 | Mk2 Expansion                                                                                                      | 計画   |
 | Universal Storage II Finalized                                                                                     | 計画   |
 | TantaresLV                                                                                                         | 計画   |
@@ -40,7 +43,7 @@
 - 気が向くままに翻訳しているので翻訳順番はバラバラです。
 - Community Ressource Packにおいては、翻訳で漢字一文字のみを当てるとゲームがロード中フリーズするバグがあり、
 「水」→「水分」など、訳文にやや強引に翻訳した箇所があります。ご了承ください。
-- 最終更新: 12/30/2022
+- 最終更新: 12/02/2022
 
 ## How to use
 

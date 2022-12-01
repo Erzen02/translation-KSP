@@ -27,8 +27,6 @@
 | [System Heat](https://forum.kerbalspaceprogram.com/index.php?/topic/193909-112x-systemheat-a-replacement-for-the-coreheat-system-october-9/)              | 作業中 |
 | [Heat Control](https://forum.kerbalspaceprogram.com/index.php?/topic/112027-112x-heat-control-more-radiators-august-22-2021/)                             | 作業中 |
 
-気が向くままに翻訳しているので順番はバラバラです。
-
 ### その他のMOD
 
 | Mod名                                                                                                              | 進捗   |
@@ -39,7 +37,10 @@
 | Universal Storage II Finalized                                                                                     | 計画   |
 | TantaresLV                                                                                                         | 計画   |
 
-最終更新: Nov 30 2022
+- 気が向くままに翻訳しているので翻訳順番はバラバラです。
+- Community Ressource Packにおいては、翻訳で漢字一文字のみを当てるとゲームがロード中フリーズするバグがあり、
+「水」→「水分」など、訳文にやや強引に翻訳した箇所があります。ご了承ください。
+- 最終更新: 12/30/2022
 
 ## How to use
 

@@ -29,6 +29,8 @@
 | [Far future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-112x-far-future-technologies-august-23-new-engine/)                | 作業中 |
 | [Near Future Aeronautics](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                     | テスト |
 | [Near Future LaunchVehicles](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                  | テスト |
+| [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/106089-112x-cryogenic-engines-liquid-hydrogen-and-methane-rockets-jan-22-2022/)        | 作業中 |
+| [Space Dust](https://forum.kerbalspaceprogram.com/index.php?/topic/197723-112x-space-dust-atmospheric-and-exospheric-harvesting-24062022/)                | 作業中 |
 
 ### その他のMOD
 

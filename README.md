@@ -31,6 +31,7 @@
 | [Near Future LaunchVehicles](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)                  | 作業中 |
 | [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/106089-112x-cryogenic-engines-liquid-hydrogen-and-methane-rockets-jan-22-2022/)        | テスト |
 | [Space Dust](https://forum.kerbalspaceprogram.com/index.php?/topic/197723-112x-space-dust-atmospheric-and-exospheric-harvesting-24062022/)                | テスト |
+| [Kerbal Atomics](https://forum.kerbalspaceprogram.com/index.php?/topic/130503-112x-kerbal-atomics-fancy-nuclear-engines-january-22%C2%A02022/)            | 作業中 |
 
 ### その他のMOD
 
@@ -43,7 +44,7 @@
 | TantaresLV                                                                                                         | 計画   |
 
 - 気が向くままに翻訳しているので翻訳順番はバラバラです。
-- 最終更新: 12/02/2022
+- 最終更新: 12/03/2022
 
 ## ゲーム本体もしくは元MODに起因する問題やバグ
 

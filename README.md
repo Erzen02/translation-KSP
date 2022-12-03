@@ -38,6 +38,8 @@
 | [Mk2 Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/109145-112x-mk2-expansion-v191-update-10521/)                | テスト |
 | [Universal Storage II Finalized](https://spacedock.info/mod/2960/Universal%20Storage%20II%20Finalized)                             | テスト |
 | [TantaresLV](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/) | テスト |
+| [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-minimum-ksp-version-111-kerbal-attachment-system-kas-v112/)     | 計画   |
+| [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-minimum-ksp-version-112-kerbal-inventory-system-kis-v129/)      | 計画   |
 
 - 気が向くままに翻訳しているので翻訳順番はバラバラです。
 - 最終更新: 12/04/2022

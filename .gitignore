@@ -1,7 +1,18 @@
-# 多言語の翻訳を載せない
+# 他言語の翻訳を載せない
 
-*.cfg
-!ja.cfg
+en-us.cfg
+es-es.cfg
+fr-fr.cfg
+pt-br.cfg
+ru.cfg
+zh-cn.cfg
+de-de.cfg
+it-it.cfg
+de.cfg
+ko-kr.cfg
+
+# Tantaresのenginge.cfgを載せない
+engines-en-us.cfg
 
 # Universal Storage2のパッチを載せる
 !CylindricalShroud1875.cfg

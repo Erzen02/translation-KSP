@@ -29,6 +29,21 @@
 | [Space Dust](https://forum.kerbalspaceprogram.com/index.php?/topic/197723-112x-space-dust-atmospheric-and-exospheric-harvesting-24062022/)                | 完了 |
 | [Kerbal Atomics](https://forum.kerbalspaceprogram.com/index.php?/topic/130503-112x-kerbal-atomics-fancy-nuclear-engines-january-22%C2%A02022/)            | 完了 |
 
+### Contract Configurator およびそのPack
+
+| ModもしくはPack名                                                                                                                               | 進捗   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [Contract Configurator](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)               | 作業中 |
+| [Contract Packs - CleverSat](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)          | 作業中 |
+| [Contract Packs - KerbalAcademy](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)      | 作業中 |
+| [Contract Packs - KerbinSpaceStation](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/) | 作業中 |
+| [Contract Packs - PlaneWithPurpose](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)   | 作業中 |
+| [Contract Packs - Tourism](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)            | 作業中 |
+| [Contract Packs - TourismExpanded](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)    | 作業中 |
+| [Contract Packs - ExplorationPlus](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)    | 作業中 |
+
+- 契約Packは著作権の都合によりそのまま上書き導入すると破損しますので、ContrackPackフォルダ内に分離しています。注意点をお読みください。
+
 ### その他のMOD
 
 | Mod名                                                                                                                              | 進捗   |
@@ -53,6 +68,7 @@
 - 原文の意味・ニュアンスをなるべく日本語訳でも受け取れるようにするため、原文に無い文、単語を追加するなどを行っている場合があります。
 - 原文に明らかな構文ミス・破損がある場合、適切と思われる範囲で修正を行っています。
 - **進捗が"作業中"もしくは"テスト"状態のMODは、文字のはみ出し、誤訳、意味が分かりづらい訳文、または翻訳されていない状態の文が含まれています。**
+- **Contract Packは必ず事前に元Packを予め導入した上で、GameData/ContractPacks内を手動で閲覧し、同名のファイルがある場合のみ上書きしてください。フォルダごと全て導入しないでください。未導入のPackがある状態で単純に翻訳データを全て移動すると、不完全な契約データが生まれます**
 
 ### 個別MOD
 
@@ -65,7 +81,9 @@
 
 ## 使い方
 
-- MODをインストールした状態でこの翻訳データをダウンロードし、GameDataフォルダをそのままゲームディレクトリ内に上書きすれば使えると思います。
+- MODをインストールした状態でこの翻訳データをダウンロードし、GameDataフォルダから導入したMODのデータを取り出して上書きしてご使用ください。
+- Contract Packの中はContract Configurator Modのアドオンの契約Packを翻訳したものです。当該MODをご使用でなければ無視してください。
+- **MODと異なり契約Packは単純な上書き導入ができません。GameData/ContractPacks以下を手動で閲覧し、同名のファイルがある場合だけ上書きしてください。同名ファイル・フォルダがなければ入れないでください。不完全な契約データが生成されます。**
 - CKAN環境でもお使いいただけますが、アップデートの際は再度手動更新してください。
 - 進捗が"完了"になっているMODの翻訳でミスが有りましたらご連絡いただければ修正するかもしれません。
 - よかったらリポジトリにスターしてもらえると。

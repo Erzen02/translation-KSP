@@ -39,9 +39,9 @@
 | ------------------------------------------------------------------------------------------------------------------ | ------ |
 | [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/) | テスト |
 | [Kerbalism](https://github.com/Kerbalism/Kerbalism)                                                                | 作業中 |
-| Mk2 Expansion                                                                                                      | 計画   |
+| Mk2 Expansion                                                                                                      | 作業中 |
 | Universal Storage II Finalized                                                                                     | 計画   |
-| TantaresLV                                                                                                         | 計画   |
+| TantaresLV                                                                                                         | 作業中 |
 
 - 気が向くままに翻訳しているので翻訳順番はバラバラです。
 - 最終更新: 12/03/2022

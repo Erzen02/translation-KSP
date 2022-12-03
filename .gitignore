@@ -3,4 +3,8 @@
 *.cfg
 !ja.cfg
 
+# Universal Storage2のパッチを載せる
+!CylindricalShroud1875.cfg
+!NerteaCryo.cfg
+
 # その他

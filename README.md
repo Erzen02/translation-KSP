@@ -33,16 +33,16 @@
 
 ### Contract Configurator およびそのPack
 
-| ModもしくはPack名                                                                                                                               | 進捗   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [Contract Configurator](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)               | テスト |
-| [Contract Packs - CleverSat](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)          | 作業中 |
-| [Contract Packs - KerbalAcademy](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)      | 作業中 |
-| [Contract Packs - KerbinSpaceStation](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/) | 作業中 |
-| [Contract Packs - PlaneWithPurpose](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)   | 作業中 |
-| [Contract Packs - Tourism](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)            | 作業中 |
-| [Contract Packs - TourismExpanded](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)    | 作業中 |
-| [Contract Packs - ExplorationPlus](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)    | テスト |
+| ModもしくはPack名                                                                                                                                                  | 進捗   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| [Contract Configurator](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)                                  | テスト |
+| [Contract Packs - CleverSat](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)                             | テスト |
+| [Contract Packs - KerbalAcademy](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)                         | 作業中 |
+| [Contract Packs - KerbinSpaceStation](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)                    | 作業中 |
+| [Contract Packs - PlaneWithPurpose](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)                      | 作業中 |
+| [Contract Packs - Tourism](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)                               | 作業中 |
+| [Contract Packs - TourismExpanded](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/)                       | 作業中 |
+| [Contract Packs - ExplorationPlus(オリジナルアレンジ版)](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-1101-contract-configurator-v1305-2020-10-05/) | テスト |
 
 - 契約Packは著作権の都合によりそのまま上書き導入すると破損しますので、ContrackPackフォルダ内に分離しています。注意点をお読みください。
 - ExplorationPlusは少し文章の使いまわしが多かったので、若干のアレンジが入っています。
@@ -53,11 +53,11 @@
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/)                 | 完了   |
 | [Kerbalism](https://github.com/Kerbalism/Kerbalism)                                                                                | 作業中 |
-| [Mk2 Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/109145-112x-mk2-expansion-v191-update-10521/)                | 完了 |
-| [Universal Storage II Finalized](https://spacedock.info/mod/2960/Universal%20Storage%20II%20Finalized)                             | 完了 |
-| [TantaresLV](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/) | テスト |
-| [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-minimum-ksp-version-111-kerbal-attachment-system-kas-v112/)     | 計画   |
-| [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-minimum-ksp-version-112-kerbal-inventory-system-kis-v129/)      | 計画   |
+| [Mk2 Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/109145-112x-mk2-expansion-v191-update-10521/)                | 完了   |
+| [Universal Storage II Finalized](https://spacedock.info/mod/2960/Universal%20Storage%20II%20Finalized)                             | 完了   |
+| [TantaresLV](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/) | 完了   |
+| [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-minimum-ksp-version-111-kerbal-attachment-system-kas-v112/)     | 作業中 |
+| [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-minimum-ksp-version-112-kerbal-inventory-system-kis-v129/)      | 作業中 |
 
 - 気が向くままに翻訳しているので翻訳順番はバラバラです。
 - 最終更新: 12/04/2022

@@ -52,7 +52,7 @@
 | Mod名                                                                                                                              | 進捗   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/)                 | 完了   |
-| [Kerbalism](https://github.com/Kerbalism/Kerbalism)                                                                                | 作業中 |
+| [Kerbalism](https://github.com/Kerbalism/Kerbalism)                                                                                | テスト |
 | [Mk2 Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/109145-112x-mk2-expansion-v191-update-10521/)                | 完了   |
 | [Universal Storage II Finalized](https://spacedock.info/mod/2960/Universal%20Storage%20II%20Finalized)                             | 完了   |
 | [TantaresLV](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/) | 完了   |

@@ -58,6 +58,7 @@
 | [TantaresLV](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/) | 完了   |
 | [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-minimum-ksp-version-111-kerbal-attachment-system-kas-v112/)     | テスト |
 | [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-minimum-ksp-version-112-kerbal-inventory-system-kis-v129/)      | テスト |
+| [Real Antennas (別作者翻訳対応版)](https://github.com/tinygrox/RealAntennas)                                                       | 計画中 |
 
 - 気が向くままに翻訳しているので翻訳順番はバラバラです。
 - 最終更新: 12/04/2022

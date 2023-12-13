@@ -2,10 +2,10 @@
 
 ## 概要
 
-- 自分が作成したKerbal Space ProgramのMODの日本語訳データを保管するリポジトリです。
-- 誤字訂正等はissueもしくは連絡先へどうぞ。
+- Kerbal Space ProgramのMODの日本語訳データを保管しています。
+- 誤字訂正等はissueもしくは連絡先へお願いします。
 - 進捗が"完了"になっているMODの翻訳でミスが有りましたらご連絡いただければ修正するかもしれません。
-- 最終更新: 2023年6月8日
+- 最終更新: 2023年12月13日
 
 ## 翻訳したMOD一覧
 
@@ -32,29 +32,31 @@
 
 ### その他のMOD
 
-| Mod名                                                                                                                              | 進捗   |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/)                 | 完了   |
-| [Mk2 Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/109145-112x-mk2-expansion-v191-update-10521/)                | 完了   |
-| [Universal Storage II Finalized](https://spacedock.info/mod/2960/Universal%20Storage%20II%20Finalized)                             | 完了   |
-| [TantaresLV](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/) | 完了   |
-| [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-minimum-ksp-version-111-kerbal-attachment-system-kas-v112/)     | テスト |
-| [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-minimum-ksp-version-112-kerbal-inventory-system-kis-v129/)      | テスト |
+| Mod名                                                                                                                                    | 進捗   |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/)                       | 完了   |
+| [Mk2 Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/109145-112x-mk2-expansion-v191-update-10521/)                      | 完了   |
+| [Universal Storage II Finalized](https://spacedock.info/mod/2960/Universal%20Storage%20II%20Finalized)                                   | 完了   |
+| [TantaresLV](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/)       | 完了   |
+| [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-minimum-ksp-version-111-kerbal-attachment-system-kas-v112/)           | 中断   |
+| [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-minimum-ksp-version-112-kerbal-inventory-system-kis-v129/)            | 中断   |
+| [B9PartSwitch](https://forum.kerbalspaceprogram.com/topic/140541-1112-b9partswitch-v2180-march-17/)                                      | 作業中 |
+| [SCANsat](https://forum.kerbalspaceprogram.com/topic/72679-1101-scansat-v204-real-scanning-real-science-at-warp-speed-september-9-2020/) | 作業中 |
+| [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382-15-110-kerbalism-311/)                                                     | 作業中 |
 
-## 注意点
-
-### 全体
+## 使用上の注意
 
 - ライセンスに従って使用できます。
 - 翻訳内容の正確性は保証されません。
 - 原文の意味・ニュアンスをなるべく日本語訳でも受け取れるようにするため、原文に無い文、単語を追加するなどを行っている場合があります。
 - 原文に明らかな構文ミス・破損がある場合、適切と思われる範囲で修正を行っています。
+- 既存の翻訳は予告なく中断・放棄・再開されることがあります。
 
 ## 使い方
 
 - MODをインストールした状態でこの翻訳データをダウンロードし、GameDataフォルダから導入したMODのデータを取り出して上書きしてご使用ください。
 - 翻訳データ導入後は、GameData内のModuleManagerのキャッシュ削除を推奨します。
-- CKAN環境でもお使いいただけますが、アップデートの際は再度手動更新してください。
+- CKAN環境でも手動導入でお使いいただけますが、アップデートの際は再度手動更新してください。
 
 ## ライセンス表記
 
@@ -63,4 +65,4 @@
 
 ## 連絡先
 
-Twitter: @_erzen_までどうぞ。
+Twitter: @_erzen_まで。

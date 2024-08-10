@@ -18,4 +18,9 @@ engines-en-us.cfg
 !CylindricalShroud1875.cfg
 !NerteaCryo.cfg
 
+# Knesの他言語翻訳を載せない
+Knes_en-us.cfg
+Knes_fr-fr.cfg
+Knes_zh-cn.cfg
+
 # その他
